@@ -49,6 +49,10 @@ Material:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    - _HologramSubgraph_597C8A23_Texture2D617BAFB2_1133330345:
+        m_Texture: {fileID: 2800000, guid: 7753b86e399d2dd41b3760bf197c14ad, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - _MainTex:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
@@ -70,6 +74,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats:
+    - Vector1_B7263C95: 0.31
     - Vector1_D105D754: 1
     - _AlphaClip: 0
     - _Blend: 0
